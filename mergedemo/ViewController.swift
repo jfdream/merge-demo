@@ -16,11 +16,13 @@ class ViewController: UIViewController {
         //yangyudong
         //yangyuxi
         //yangyudong 测试三
+        // 哈哈哈哈哈哈哈哈哈
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        // 主消息测试儿
         // 主消息测试
     }
 
